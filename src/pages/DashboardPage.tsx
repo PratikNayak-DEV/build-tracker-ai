@@ -12,8 +12,6 @@ import {
   TrendingUp,
 } from "lucide-react";
 import {
-  LineChart,
-  Line,
   XAxis,
   YAxis,
   CartesianGrid,
