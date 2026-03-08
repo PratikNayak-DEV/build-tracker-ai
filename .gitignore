@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Backend / ML artifacts
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/node_modules
+backend/.env
+ml-service/.venv
+__pycache__/
